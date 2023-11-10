@@ -63,5 +63,5 @@ YouTube Data Harvesting and Warehousing using VS Code,PostgreSQL, MongoDB, and S
     Data Management using local MongoDB and local PostgreSQL
     IDE: VS Code
 
-### Connect Through LinkedIn For Queries !!!
+
 
